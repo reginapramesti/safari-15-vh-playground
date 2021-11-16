@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/safari-15-vh-playground/static/css/main.ab3579a0.chunk.css",
+    "main.js": "/safari-15-vh-playground/static/js/main.1c852ae9.chunk.js",
+    "main.js.map": "/safari-15-vh-playground/static/js/main.1c852ae9.chunk.js.map",
+    "runtime-main.js": "/safari-15-vh-playground/static/js/runtime-main.243d4c4b.js",
+    "runtime-main.js.map": "/safari-15-vh-playground/static/js/runtime-main.243d4c4b.js.map",
+    "static/js/2.a01cb5a7.chunk.js": "/safari-15-vh-playground/static/js/2.a01cb5a7.chunk.js",
+    "static/js/2.a01cb5a7.chunk.js.map": "/safari-15-vh-playground/static/js/2.a01cb5a7.chunk.js.map",
+    "static/js/3.0951463f.chunk.js": "/safari-15-vh-playground/static/js/3.0951463f.chunk.js",
+    "static/js/3.0951463f.chunk.js.map": "/safari-15-vh-playground/static/js/3.0951463f.chunk.js.map",
+    "index.html": "/safari-15-vh-playground/index.html",
+    "static/css/main.ab3579a0.chunk.css.map": "/safari-15-vh-playground/static/css/main.ab3579a0.chunk.css.map",
+    "static/js/2.a01cb5a7.chunk.js.LICENSE.txt": "/safari-15-vh-playground/static/js/2.a01cb5a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.243d4c4b.js",
+    "static/js/2.a01cb5a7.chunk.js",
+    "static/css/main.ab3579a0.chunk.css",
+    "static/js/main.1c852ae9.chunk.js"
+  ]
+}
